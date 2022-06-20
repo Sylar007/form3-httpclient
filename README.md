@@ -3,7 +3,7 @@ The goal of this exercise is to write a client library in Go to access Form3 fak
 
 
 ## Name: Mohd Diah A.Karim
-Most of my career in software development, i'm using C# for backend and Angular for frontend development. I'm only have a few months in commercial experience working with Go and couple of months learning the Go language.
+Most of my career in software development, i'm using C# for backend and Angular for frontend development. I'm only have a few months in working experience with Go and couple of months learning the Go language.
 
 In the home exercise, I'm creating a custom HTTP client to extends a common functionalities from standard library net/http. The custom HTTP client have a few generic methods that created based on the home exercise requirements such as:-
 
